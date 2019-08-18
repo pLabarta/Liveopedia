@@ -1,2 +1,2 @@
 # Liveopedia
-Live-coding collection for awesome n00bs.
+Livecoding stuff I make and find.
